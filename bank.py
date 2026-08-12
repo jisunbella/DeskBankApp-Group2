@@ -1,1 +1,7 @@
-print("hello Welcome to DeskBankApp")
+class Bank:
+  
+  @staticmethod
+  def main():
+    print("DeskBankApp started")
+
+Bank.main()
