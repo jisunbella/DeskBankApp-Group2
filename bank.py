@@ -5,4 +5,4 @@ class Bank:
     print("DeskBankApp started")
 
 Bank.main()
-print "name"
+print("name")
