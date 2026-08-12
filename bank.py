@@ -6,3 +6,4 @@ class Bank:
 
 Bank.main()
 print("name")
+print("animal")
